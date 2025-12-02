@@ -258,8 +258,6 @@ nav a:hover::after {
   transform: translateY(-3px);
 }
 
-
-
 /* Sections */
 
 .section {
@@ -310,8 +308,6 @@ nav a:hover::after {
   }
 }
 
-
-
 /* Skills */
 .logo-cloud {
 position: relative;
@@ -320,7 +316,6 @@ padding: 2.5rem 1.5rem;
 border-radius: 20px;
 background: radial-gradient(circle at 10% 0%, #ff4b8b, #4d7bff 90%);
 overflow: hidden;
-
 display: flex;
 justify-content: center;
 align-items: center;
@@ -383,42 +378,11 @@ width: 44px;
 }
 }
 
-
-/* .skills-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 1rem;
-}
-
-.skill-card {
-  background: #101426;
-  border-radius: 12px;
-  padding: 1.2rem 1rem;
-  text-align: center;
-}
-.skill-card {
-  background: #101426;
-  border-radius: 12px;
-  padding: 1.4rem 1rem;
-  text-align: center;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  gap:0.6rem;
-}
-
-.skill-card i {
-  font-size: 1.6rem;
-  color: #ff4b8b;
-}
-
 .skill-card:hover {
   background: linear-gradient(135deg, #ff4b8b, #4d7bff);
   color: #ffffff;
   transform: translateY(-5px);
-} */
-
-
+} 
 
 /* projects */
 
@@ -479,7 +443,6 @@ width: 44px;
   margin-bottom: 1.5rem;
 }
 
-
 .contact-visual {
   flex: 1;
   display: flex;
@@ -501,7 +464,6 @@ width: 44px;
     margin-top: 1.5rem;
   }
 }
-
 
 /* Footer */
 
